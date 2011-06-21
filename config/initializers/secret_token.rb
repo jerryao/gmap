@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Gmap::Application.config.secret_token = '61364fd2458674b081a2c01a0dea9255f8b6687bd5f257dbd1d803bde0bcc6a42903185091eac974fbffabb01051afa63e8134199cb948da4baceb8eed2989bb'
+Gmap::Application.config.secret_token = 'fec51b20d57d8f8de90672ba42ade7db9aaf26138d2fa9247b3335da25a977d5c6aaa058e22878a5ff7b60d1dfe8bc9d6a0962df9ce5c11d3ead9ad998170c94'
